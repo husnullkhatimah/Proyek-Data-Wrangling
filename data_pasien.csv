@@ -1,0 +1,6 @@
+id,nama,usia,jenis_kelamin,tekanan_darah,kolesterol,merokok,gejala,diagnosis,tanggal_periksa
+1,Andi Saputra,45,Pria,130,240,True,"['nyeri dada', 'sesak nafas']",Positif,2025-02-15
+2,Siti Aminah,52,Wanita,145,280,False,"['lelah', 'pusing']",Negatif,2025-02-16
+3,Budi Santoso,38,Pria,120,200,True,['jantung berdebar'],Positif,2025-02-17
+4,Dewi Lestari,61,Wanita,148,203,False,"['nyeri dada', 'lelah', 'sesak']",Positif,2025-02-18
+5,Rudi Hermawan,29,Pria,118,182,False,[],Negatif,2025-02-19
